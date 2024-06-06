@@ -1,0 +1,23 @@
+[
+    {
+      "Name": "How to Design a Lab Guide",
+      "Language": "English",
+      "Files": [
+        {
+          "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/qa-lab-guide/lab/01-single-question.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/qa-lab-guide/lab/02-multiple-question.md",
+          "Order": 2,
+          "UnlockingRules": [
+            {
+              "UnlockDependency": "Questions",
+              "DependentQuestions": [ "./questions/Page1/question-01.md", "./questions/Page1/question-02.md" ],
+              "UnlockCriteria": "AnsweredCorrectly"
+            }
+          ]
+        }
+      ]
+    }
+  ]
