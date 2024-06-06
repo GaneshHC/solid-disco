@@ -8,7 +8,7 @@
           "Order": 1
         },
         {
-          "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/qa-lab-guide/lab/02-multiple-question.md",
+          "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-question",
           "Order": 2,
           "UnlockingRules": [
             {
