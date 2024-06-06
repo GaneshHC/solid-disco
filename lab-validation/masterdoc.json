@@ -8,12 +8,12 @@
           "Order": 1
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-question",
+          "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-question.md",
           "Order": 2,
           "UnlockingRules": [
             {
               "UnlockDependency": "Questions",
-              "DependentQuestions": [ "./questions/Page1/question-01.md", "./questions/Page1/question-02.md" ],
+              "DependentQuestions": [ "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md", "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest2.md" ],
               "UnlockCriteria": "AnsweredCorrectly"
             }
           ]
