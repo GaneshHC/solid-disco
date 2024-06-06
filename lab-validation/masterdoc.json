@@ -3,13 +3,10 @@
       "Name": "How to Design a Lab Guide",
       "Language": "English",
       "Files": [
-        {
-          "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/qa-lab-guide/lab/01-single-question.md",
-          "Order": 1
-        },
+         
         {
           "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-question.md",
-          "Order": 2,
+          "Order": 1,
           "UnlockingRules": [
             {
               "UnlockDependency": "Questions",
