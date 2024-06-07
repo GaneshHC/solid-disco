@@ -12,7 +12,7 @@ Open Google Chrome and sign in to the AWS Management Console by copying the **Si
 - **IAM Username**:
 - **Password**:
 
-![](/Users/ganesh.h.c/Documents/labvalid-img1.png)
+![](labvalid-img1.png)
 
 ## Task.2
 
