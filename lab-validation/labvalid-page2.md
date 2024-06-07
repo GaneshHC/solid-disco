@@ -19,12 +19,12 @@ Open Google Chrome and sign in to the AWS Management Console by copying the **Si
 
 Alternatively, you can also find these values on the **CloudLabs** Environment tab.
 
-![img](/Users/ganesh.h.c/Documents/labvalid-img2.png)
+![img](labvalid-img2.png)
 
 ## Task.3
 
 After signing in to the AWS Management Console, choose the IAM service, through which we have to create Roles 
 
-![img](/Users/ganesh.h.c/Documents/labvalid-img3.png)
+![img](labvalid-img3.png)
 
  
