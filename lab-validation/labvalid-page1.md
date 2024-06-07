@@ -8,6 +8,8 @@ This lab offers a fundamental knowledge to create new Roles through AWS-IAM serv
 ### Key Learnings
 1. Connect To Your provided AWS console
 2. Creating Roles from IAM 
-3. Attching required policies to Role 
+3. Attching required policies to Role
+
+   
 ### Duration
-This lab approximately requires 60 minutes to complete.
+This lab approximately requires 120 minutes to complete.
