@@ -15,6 +15,7 @@
             "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/labvalid-page2.md",
             "Order": 2
              
+             
         },
         {
             "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/labvalid-page3.md",
@@ -25,18 +26,19 @@
 
         { 
             "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/labvalid-page4.md",
-            "Order": 4,
-            "UnlockingRules": [
-            {
-              "UnlockDependency": "Questions",
-              "DependentQuestions": [ "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md", "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest2.md" ],
-              "UnlockCriteria": "AnsweredCorrectly"
-            }
-          ]
+            "Order": 4
+             
         },
         {
             "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/labvalid-page5.md",
-            "Order": 5
+            "Order": 5,
+            "UnlockingRules": [
+                {
+                  "UnlockDependency": "Questions",
+                  "DependentQuestions": [ "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md", "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest2.md" ],
+                  "UnlockCriteria": "AnsweredCorrectly"
+                }
+              ]
              
         }
       ]
