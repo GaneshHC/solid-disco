@@ -8,13 +8,13 @@
 
 You will be listed with policies, select policy that need to be attached
 
-![img](/Users/ganesh.h.c/Documents/labvalid-img7.png)
+![img](labvalid-img7.png)
 
 ## Task.2
 
 
 After selecting policy click on **Next** option
-![img](/Users/ganesh.h.c/Documents/labvalid-img8.png)
+![img](labvalid-img8.png)
 
 
 <question source="https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md" />
