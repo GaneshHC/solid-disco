@@ -42,6 +42,7 @@
               ]
              
         },
+        {
           "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/invalid-page6.md",
           "Order": 6,
           "UnlockingRules": [
@@ -54,6 +55,7 @@
             ]
           }
         ]
+        }
           
       ]
     }
