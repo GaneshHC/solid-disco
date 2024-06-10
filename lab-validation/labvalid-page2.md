@@ -27,6 +27,6 @@ After signing in to the AWS Management Console, choose the IAM service, through 
 
 ![img](labvalid-img3.png)
 
-<validation step="778a12ac-7af2-4495-9f0b-06dafb327e44" />
+ 
 
  
