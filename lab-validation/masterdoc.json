@@ -13,15 +13,8 @@
 
         {
             "RawFilePath": "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/labvalid-page2.md",
-            "Order": 2,
-             "UnlockingRules": [
-                {
-                  "UnlockDependency": "Questions",
-                  "DependentQuestions": [ "https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md" ],
-                  "UnlockCriteria": "AnsweredCorrectly"
-                }
-              ]
-             
+            "Order": 2
+              
              
         },
         {
