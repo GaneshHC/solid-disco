@@ -14,4 +14,4 @@ This lab offers a fundamental knowledge to create new Roles through AWS-IAM serv
 ### Duration
 This lab approximately requires 120 minutes to complete.
 
-<question source="https://raw.githubusercontent.com/GaneshHC/solid-disco/codespace-solid-disco-x6p4rpvjwj63vpv7/lab-validation/valid-quest1.md" />
+ 
